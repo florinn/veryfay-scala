@@ -67,7 +67,7 @@ Installing
 Add this dependency to your *build.sbt* file: 
 
 ```scala
-libraryDependencies += "com.github.florinn" % "veryfay" % "0.1"
+libraryDependencies += "com.github.florinn" % "veryfay_2.11" % "0.1"
 ```
 
 Or add this Maven dependency to your build:
@@ -76,7 +76,7 @@ Or add this Maven dependency to your build:
 <dependencies>
     <dependency>
         <groupId>com.github.florinn</groupId>
-        <artifactId>veryfay</artifactId>
+        <artifactId>veryfay_2.11</artifactId>
         <version>0.1</version>
     </dependency>
 </dependencies>

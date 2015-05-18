@@ -67,3 +67,4 @@ $RECYCLE.BIN/
 .classpath
 .project
 .settings
+.cache
